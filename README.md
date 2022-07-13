@@ -10,15 +10,9 @@
 
 - <h3> Thành viên </h3>
 
-1. Lê Đình Khôi Nguyên (Nhóm trưởng)
-2. Phan Xuân Bình
-3. Nguyễn Đức Huỳnh
-4. Đỗ Phi Long
-5. Lê Công Minh
-6. Dương Văn Công
-7. Phạm Văn Phú
-8. Dương Nguyễn Ngọc Long
-9. Lê Đình Minh
+1. Lê Công Minh
+2. Dương Văn Công
+3. Lê Đình Minh
 
 
 ## Thông tin môn học
